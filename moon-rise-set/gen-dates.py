@@ -1,5 +1,3 @@
-#!/usr/bin/python3
-
 import ephem
 from astropy.coordinates import EarthLocation
 from astropy.time import Time
